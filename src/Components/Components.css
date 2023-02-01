@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+.con2{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.con1{
+    margin-top: 0px;
+    height: 90vh;
+    background-image: linear-gradient(
+        rgb(83, 142, 197),
+        pink,
+        white
+    );
+    padding: 30px;
+}
+.con3{
+    margin-top: 80px;
+    display: flex;
+
+}
+button{
+    margin-left: 10px;
+    height: 45px;
+    width: 200px;
+    font-size: 20px;
+    border-radius: 30px;
+}
+input{
+    width: 500px;
+    height: 40px;
+    margin-top: 80px;
+}
+tr{
+    background-color: white;
+}

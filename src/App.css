@@ -1,0 +1,32 @@
+ul{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  height: 55px;
+  font-size: 30px;
+  font-family:'Courier New', Courier, monospace;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: black;
+  
+  
+}
+
+li{
+  text-decoration: none;
+  color: white;
+}
+
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none;
+}
+
+Link{
+  text-decoration: none;
+}
+li:hover{
+  color: aqua;
+}
